@@ -7,6 +7,10 @@ The Jupyter notebooks below showcase some of the new features in in FMI 3.0.
 - `cs_events.ipynb` - Co-Simulation with events
 - `intermediate_update.ipynb` - access the model at internal solver steps
 
+## Run the notebooks in the cloud
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/t-sommer/fmi3-features/HEAD)
+
 ## Run the notebooks locally
 
 - install [mambaforge](https://github.com/conda-forge/miniforge#mambaforge)
@@ -15,10 +19,6 @@ The Jupyter notebooks below showcase some of the new features in in FMI 3.0.
 - `mamba activate fmi3-features`
 - clone the repository and change into the directory
 - run `jupyter lab`
-
-## Run the notebooks in the cloud
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/t-sommer/fmi3-features/HEAD)
 
 ------------------------------------
 
