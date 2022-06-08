@@ -2,10 +2,10 @@
 
 The Jupyter notebooks below showcase some of the new features in in FMI 3.0.
 
-- `adjoint_derivatives.ipynb` - retrieve adjoint derivatives efficiently
-- `array_variables.ipynb` - work efficiently with array variables
-- `cs_events.ipynb` - Co-Simulation with events
-- `intermediate_update.ipynb` - access the model at internal solver steps
+- [adjoint_derivatives.ipynb](adjoint_derivatives.ipynb) - retrieve adjoint derivatives efficiently
+- [array_variables.ipynb](array_variables.ipynb) - work efficiently with array variables
+- [cs_events.ipynb](cs_events.ipynb) - Co-Simulation with events
+- [intermediate_update.ipynb](intermediate_update.ipynb) - access the model at internal solver steps
 
 ## Run the notebooks in the cloud
 
